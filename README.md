@@ -58,7 +58,7 @@ A file backup and organization application.
 
 ### ⚡ Rapid-Run
 
-Explore my Rapid-Run project and its implementation.
+Online code editor application.
 
 [View Repository →](https://github.com/Azhar1029/Rapid-Run)
 
