@@ -115,26 +115,6 @@ Explore my Rapid-Run project and its implementation.
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Azhar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azhar1029&theme=tokyo-night&hide_border=true)](https://github.com/Azhar1029)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=Azhar1029&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/Azhar1029)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
