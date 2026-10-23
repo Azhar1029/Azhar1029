@@ -1,31 +1,158 @@
-<h1 align="center">Hi 👋, I'm Mohammad Azhar Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Profile Header -->
+<div align="center">
 
-- 🧑‍💻 I built [BookMyShow](https://github.com/Azhar1029/BookMyShow)
+# Hi 👋, I'm Mohammad Azhar Ansari
 
-- 🌱 I’m currently learning **Spring AI**
+### Java Backend Developer | Spring Boot | Problem Solving
 
-- 🧑‍💻 I built [Vault](https://github.com/Azhar1029/Vault)
+Building backend applications, exploring AI integration, and continuously improving my software development skills.
 
-- 🧑‍💻 I built [Rapid-Run](https://github.com/Azhar1029/Rapid-Run)
+[![GitHub](https://img.shields.io/badge/GitHub-Azhar1029-181717?style=for-the-badge&logo=github)](https://github.com/Azhar1029)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azhar-ansari2004/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhar_123/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Azhar1029](https://github.com/Azhar1029)
+</div>
 
-- 💬 Ask me about **Java Backend Developement**
+---
 
-- 📫 How to reach me **azhar.ansari547793@gmail.com**
+## 👨‍💻 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vOHHhjUMAWSWOWjWrZHE7QOCORZXuQUt/view?usp=drive_link](https://drive.google.com/file/d/1vOHHhjUMAWSWOWjWrZHE7QOCORZXuQUt/view?usp=drive_link)
+- 💻 I enjoy building backend applications using Java and Spring Boot.
+- 🌱 Currently learning **Spring AI** and exploring AI-powered applications.
+- 🚀 Interested in backend engineering, REST APIs, and scalable application design.
+- 🧩 Practicing Data Structures and Algorithms to improve my problem-solving skills.
+- 📂 Explore my projects: [github.com/Azhar1029](https://github.com/Azhar1029)
+- 📫 Reach me at: **azhar.ansari547793@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azhar1023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azhar1023" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azhar-ansari2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azhar-ansari2004/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/azhar_ansari5471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/azhar_ansari5471" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/azhar_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/azhar_123/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhar1029&show_icons=true&locale=en&layout=compact" alt="azhar1029" /></p>
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 BookMyShow
+
+A movie ticket booking application.
+
+**Tech:** Java, Spring Boot
+
+[View Repository →](https://github.com/Azhar1029/BookMyShow)
+
+</td>
+<td width="50%">
+
+### 🔐 Vault
+
+A file backup and organization application.
+
+**Tech:** Java, Spring Boot
+
+[View Repository →](https://github.com/Azhar1029/Vault)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ⚡ Rapid-Run
+
+Explore my Rapid-Run project and its implementation.
+
+[View Repository →](https://github.com/Azhar1029/Rapid-Run)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Programming Languages
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+### Backend Development
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+
+### Databases and Tools
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Azhar1029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Azhar's GitHub Statistics" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar1029&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Azhar1029&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Azhar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azhar1029&theme=tokyo-night&hide_border=true)](https://github.com/Azhar1029)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=Azhar1029&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/Azhar1029)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azhar_Ansari-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/azhar-ansari2004/)
+[![Twitter](https://img.shields.io/badge/Twitter-Azhar1023-000000?style=flat-square&logo=x)](https://twitter.com/azhar1023)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/azhar_ansari5471)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Azhar123-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhar_123/)
+[![GitHub](https://img.shields.io/badge/GitHub-Azhar1029-181717?style=flat-square&logo=github)](https://github.com/Azhar1029)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency is the key to becoming a better developer."
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</div>
