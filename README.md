@@ -98,23 +98,6 @@ Explore my Rapid-Run project and its implementation.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Azhar1029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Azhar's GitHub Statistics" />
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar1029&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Azhar1029&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
